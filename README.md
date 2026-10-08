@@ -3,7 +3,7 @@
 Estudante do curso Técnico em Manutenção e Suporte em Informática no **IFAM Campus Coari**, com foco em **suporte técnico, infraestrutura e monitoramento**. Trabalho principalmente com Linux, redes e Windows.
 
 📍 Coari, Amazonas, Brasil  
-💼 Buscando vagas de **Help Desk / Suporte N1-N2 e NOC / redes de computadores**, de preferência remoto
+💼 Buscando vagas de **Help Desk / Suporte N1-N2 e NOC / redes de computadores**, de preferência remoto.
 
 ---
 
